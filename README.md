@@ -32,5 +32,6 @@ This project is ideal for system administrators, IT professionals, and organizat
 
 ## Dashboard Screenshots
 
-[![Dashboard Screenshot 1](![alt text](image.png))](dashboard_screenshot_1.png)
-[![Dashboard Screenshot 2](![alt text](image-1.png))](dashboard_screenshot_2.png)
+[![Dashboard Screenshot 1](dashboard_screenshot_1.png)](dashboard_screenshot_1.png)
+[![Dashboard Screenshot 2](dashboard_screenshot_1.png)](dashboard_screenshot_1.png)
+[![SSMS Screenshot](SSMS_screenshot_1.png)](SSMS_screenshot_1.png)
